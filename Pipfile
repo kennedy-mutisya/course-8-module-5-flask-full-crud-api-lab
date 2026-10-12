@@ -9,3 +9,5 @@ pytest = "*"
 
 [requires]
 python_version = "3.11"
+
+[dev-packages]
